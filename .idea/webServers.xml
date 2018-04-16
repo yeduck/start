@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="80e23dc3-b4cc-437a-9f76-042f42e30162" name="start" url="http://13.112.119.234">
+        <fileTransfer host="13.112.119.234" port="22" privateKey="C:\Users\startiasoft\Downloads\rsa-linux.pem" rootFolder="/var/www/start" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
